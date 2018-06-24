@@ -14,7 +14,7 @@
 //=====[ DEFINES ]===============//
 //===============================//
 ///////////////////////////////////
-#define PLUGIN_VERSION "2.0"
+#define PLUGIN_VERSION "2.1"
 
 /////////////////////////////////////////
 //=====================================//
@@ -160,7 +160,7 @@ public OnPluginStart()
     // Player votes commands 
     LoadTranslations("playersvotes.phrases");
 
-    CreateConVar("sm_playersvotes_sfr_version", PLUGIN_VERSION, "Players Votes SFR Version", FCVAR_PLUGIN | FCVAR_SPONLY | FCVAR_DONTRECORD | FCVAR_NOTIFY);
+    CreateConVar("sm_playersvotes_sfr_version", PLUGIN_VERSION, "Players Votes SFR Version", FCVAR_SPONLY | FCVAR_DONTRECORD | FCVAR_NOTIFY);
 
     BuildPath(Path_SM, g_strConfigFile, sizeof(g_strConfigFile), "configs/playersvotes.cfg");
 
