@@ -1,272 +1,282 @@
 ﻿"Phrases"
 {
-	"Vote"
-	{
-		"en"	"Vote"
-	}
+    "Vote"
+    {
+        "en"    "Vote"
+    }
 
-	"Kick"
-	{
-		"en"	"Kick"
-	}
+    "Kick"
+    {
+        "en"    "Kick"
+    }
 
-	"Ban"
-	{
-		"en"	"Ban"
-	}
+    "Ban"
+    {
+        "en"    "Ban"
+    }
 
-	"Mute"
-	{
-		"en"	"Mute"
-	}
-    
+    "Mute"
+    {
+        "en"    "Mute"
+    }
+
     "Gag"
-	{
-		"en"	"Gag"
-	}
-    
+    {
+        "en"    "Gag"
+    }
+
     "Silence"
-	{
-		"en"	"Silence"
-	}
+    {
+        "en"    "Silence"
+    }
 
-	"kick"
-	{
-		"en"	"kick"
-	}
+    "kick"
+    {
+        "en"    "kick"
+    }
 
-	"ban"
-	{
-		"en"	"ban"
-	}
+    "ban"
+    {
+        "en"    "ban"
+    }
 
-	"mute"
-	{
-		"en"	"mute"
-	}
-    
+    "mute"
+    {
+        "en"    "mute"
+    }
+
     "gag"
-	{
-		"en"	"gag"
-	}
-    
+    {
+        "en"    "gag"
+    }
+
     "silence"
-	{
-		"en"	"silence"
-	}
+    {
+        "en"    "silence"
+    }
 
-	"Settings"
-	{
-		"en"	"Settings"
-	}
+    "Settings"
+    {
+        "en"    "Settings"
+    }
 
-	"Voting Menu"
-	{
-		"en"	"Voting Menu"
-	}
+    "Voting Menu"
+    {
+        "en"    "Voting Menu"
+    }
 
-	"Votekick"
-	{
-		"en"	"VoteKick"
-	}
+    "Votekick"
+    {
+        "en"    "VoteKick"
+    }
 
-	"Voteban"
-	{
-		"en"	"VoteBan"
-	}
+    "Voteban"
+    {
+        "en"    "VoteBan"
+    }
 
-	"Votemute"
-	{
-		"en"	"VoteMute"
-	}
-    
+    "Votemute"
+    {
+        "en"    "VoteMute"
+    }
+
     "Votegag"
-	{
-		"en"	"VoteGag"
-	}
-    
+    {
+        "en"    "VoteGag"
+    }
+
     "Votesilence"
-	{
-		"en"	"VoteSilence"
-	}
+    {
+        "en"    "VoteSilence"
+    }
 
-	"All"
-	{
-		"en"	"All"
-	}
+    "All"
+    {
+        "en"    "All"
+    }
 
-	"all"
-	{
-		"en"	"all"
-	}
+    "all"
+    {
+        "en"    "all"
+    }
 
-	"voted to kick"
-	{
-		"#format"	"{1:s},{2:s}"
-		"en"		"{1} voted to kick {2}"
-	}
+    "voted to kick"
+    {
+        "#format"   "{1:s},{2:s}"
+        "en"        "{1} voted to kick {2}"
+    }
 
-	"voted to ban"
-	{
-		"#format"	"{1:s},{2:s}"
-		"en"		"{1} voted to ban {2}"
-	}
+    "voted to ban"
+    {
+        "#format"   "{1:s},{2:s}"
+        "en"        "{1} voted to ban {2}"
+    }
 
-	"voted to mute"
-	{
-		"#format"	"{1:s},{2:s}"
-		"en"		"{1} voted to mute {2}"
-	}
-    
+    "voted to mute"
+    {
+        "#format"   "{1:s},{2:s}"
+        "en"        "{1} voted to mute {2}"
+    }
+
     "voted to gag"
-	{
-		"#format"	"{1:s},{2:s}"
-		"en"		"{1} voted to gag {2}"
-	}
-    
+    {
+        "#format"   "{1:s},{2:s}"
+        "en"        "{1} voted to gag {2}"
+    }
+
     "voted to silence"
-	{
-		"#format"	"{1:s},{2:s}"
-		"en"		"{1} voted to silence {2}"
-	}
+    {
+        "#format"   "{1:s},{2:s}"
+        "en"        "{1} voted to silence {2}"
+    }
 
-	"votes required"
-	{
-		"#format"	"{1:d},{2:d}"
-		"en"		"Votes required {1}/{2}"
-	}
+    "votes required"
+    {
+        "#format"   "{1:d},{2:d}"
+        "en"        "Votes required {1}/{2}"
+    }
 
-	"kicked by vote"
-	{
-		"#format"	"{1:s}"
-		"en"		"{1} has been kicked by players vote"
-	}
+    "kicked by vote"
+    {
+        "#format"   "{1:s}"
+        "en"        "{1} has been kicked by players vote"
+    }
 
-	"banned by vote"
-	{
-		"#format"	"{1:s}"
-		"en"		"{1} has been banned by players vote"
-	}
+    "banned by vote"
+    {
+        "#format"   "{1:s}"
+        "en"        "{1} has been banned by players vote"
+    }
 
-	"muted by vote"
-	{
-		"#format"	"{1:s}"
-		"en"		"{1} has been muted by players vote"
-	}
-    
+    "muted by vote"
+    {
+        "#format"   "{1:s}"
+        "en"        "{1} has been muted by players vote"
+    }
+
     "gagged by vote"
-	{
-		"#format"	"{1:s}"
-		"en"		"{1} has been gagged by players vote"
-	}
-    
+    {
+        "#format"   "{1:s}"
+        "en"        "{1} has been gagged by players vote"
+    }
+
     "silenced by vote"
-	{
-		"#format"	"{1:s}"
-		"en"		"{1} has been silenced by players vote"
-	}
+    {
+        "#format"   "{1:s}"
+        "en"        "{1} has been silenced by players vote"
+    }
 
-	"kicked by users"
-	{
-		"en"		"You have been kicked by players votes"
-	}
+    "kicked by users"
+    {
+        "en"        "You have been kicked by players votes"
+    }
 
-	"banned by users"
-	{
-		"en"		"You have been banned by players votes"
-	}
+    "banned by users"
+    {
+        "en"        "You have been banned by players votes"
+    }
 
-	"voting not allowed"
-	{
-		"#format"	"{1:d}"
-		"en"		"Voting not allowed for {1} seconds"
-	}
+    "voting not allowed"
+    {
+        "#format"   "{1:d}"
+        "en"        "Voting not allowed for {1} seconds"
+    }
 
-	"voting not allowed again"
-	{
-		"#format"	"{1:d}"
-		"en"		"Voting again not allowed for another {1} seconds"
-	}
+    "voting not allowed again"
+    {
+        "#format"   "{1:d}"
+        "en"        "Voting again not allowed for another {1} seconds"
+    }
 
-	"votes spent"
-	{
-		"#format"	"{1:d},{2:s}"
-		"en"		"You spent all {1} of your {2} votes this map"
-	}
+    "votes spent"
+    {
+        "#format"   "{1:d},{2:s}"
+        "en"        "You spent all {1} of your {2} votes this map"
+    }
 
-	"votes remaining"
-	{
-		"#format"	"{1:d}"
-		"en"		"{1} votes remaining"
-	}
+    "votes remaining"
+    {
+        "#format"   "{1:d}"
+        "en"        "{1} votes remaining"
+    }
 
-	"cancelled votes"
-	{
-		"#format"	"{1:t}"
-		"en"		"{1} votes cancelled"
-	}
+    "cancelled votes"
+    {
+        "#format"   "{1:t}"
+        "en"        "{1} votes cancelled"
+    }
 
-	"cancel all votes"
-	{
-		"en"		"Cancel all votes"
-	}
+    "cancel all votes"
+    {
+        "en"        "Cancel all votes"
+    }
 
-	"cancel kick votes"
-	{
-		"en"		"Cancel kick votes"
-	}
+    "cancel kick votes"
+    {
+        "en"        "Cancel kick votes"
+    }
 
-	"cancel ban votes"
-	{
-		"en"		"Cancel ban votes"
-	}
+    "cancel ban votes"
+    {
+        "en"        "Cancel ban votes"
+    }
 
-	"cancel mute votes"
-	{
-		"en"		"Cancel mute votes"
-	}
+    "cancel mute votes"
+    {
+        "en"        "Cancel mute votes"
+    }
 
     "cancel gag votes"
-	{
-		"en"		"Cancel gag votes"
-	}
-    
+    {
+        "en"        "Cancel gag votes"
+    }
+
     "cancel silence votes"
-	{
-		"en"		"Cancel silence votes"
-	}
-    
-	"enable voting"
-	{
-		"#format"	"{1:t}"
-		"en"		"Enable {1} voting"
-	}
+    {
+        "en"        "Cancel silence votes"
+    }
 
-	"disable voting"
-	{
-		"#format"	"{1:s}"
-		"en"		"Disable {1} voting"
-	}
+    "enable voting"
+    {
+        "#format"   "{1:t}"
+        "en"        "Enable {1} voting"
+    }
 
-	"disabled votes"
-	{
-		"#format"	"{1:t}"
-		"en"		"{1} voting disabled"
-	}
+    "disable voting"
+    {
+        "#format"   "{1:s}"
+        "en"        "Disable {1} voting"
+    }
 
-	"all disabled votes"
-	{
-		"en"		"All voting is disabled"
-	}
+    "disabled votes"
+    {
+        "#format"   "{1:t}"
+        "en"        "{1} voting disabled"
+    }
 
-	"enabled votes"
-	{
-		"#format"	"{1:t}"
-		"en"		"{1} voting enabled"
-	}
+    "all disabled votes"
+    {
+        "en"        "All voting is disabled"
+    }
 
-	"ban reasons"
-	{
-		"en"		"Ban reasons"
-	}
+    "enabled votes"
+    {
+        "#format"   "{1:t}"
+        "en"        "{1} voting enabled"
+    }
+
+    "ban reasons"
+    {
+        "en"        "Ban reasons"
+    }
+
+    "Playervotes Admin"
+    {
+        "en"        "Playervotes Admin"
+    }
+
+    "Menus and Options"
+    {
+        "en"        "Menus and Options"
+    }
 }
