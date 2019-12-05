@@ -35,30 +35,30 @@ along with this plugin.  If not, see <http://www.gnu.org/licenses/>.
 /*********************
 **       MUTE       **
 **********************/
-Handle g_hArrayVoteMuteClientIdentity;
+Handle g_hArrayVoteMuteClientIdentity = INVALID_HANDLE;
 
 /*********************
 **       GAG        **
 **********************/
-Handle g_hArrayVoteGagClientIdentity;
+Handle g_hArrayVoteGagClientIdentity = INVALID_HANDLE;
 
 /*********************
 **     SILENCE      **
 **********************/
-Handle g_hArrayVoteSilenceClientIdentity;
+Handle g_hArrayVoteSilenceClientIdentity = INVALID_HANDLE;
 
 /*********************
 **       BAN        **
 **********************/
-Handle g_hCvarVoteBanSB;
-Handle g_hArrayVoteBanClientUserIds;
-Handle g_hArrayVoteBanClientCurrentUserId;
-Handle g_hArrayVoteBanClientIdentity;
-Handle g_hArrayVoteBanClientNames;
-Handle g_hArrayVoteBanClientTeam;
-Handle g_hArrayVoteBanReasons;
-Handle g_hArrayVoteBanFor[MAXPLAYERS + 1];
-Handle g_hArrayVoteBanForReason[MAXPLAYERS + 1];
+ConVar g_hCvarVoteBanSB = null;
+Handle g_hArrayVoteBanClientUserIds = INVALID_HANDLE;
+Handle g_hArrayVoteBanClientCurrentUserId = INVALID_HANDLE;
+Handle g_hArrayVoteBanClientIdentity = INVALID_HANDLE;
+Handle g_hArrayVoteBanClientNames = INVALID_HANDLE;
+Handle g_hArrayVoteBanClientTeam = INVALID_HANDLE;
+Handle g_hArrayVoteBanReasons = INVALID_HANDLE;
+Handle g_hArrayVoteBanFor[MAXPLAYERS + 1] = INVALID_HANDLE;
+Handle g_hArrayVoteBanForReason[MAXPLAYERS + 1] = INVALID_HANDLE;
 
 ///////////////////////////////////
 //=====[ VARIABLES ]=============//
@@ -68,7 +68,7 @@ bool g_bImmune[MAXPLAYERS + 1];
 char g_strConfigFile[PLATFORM_MAX_PATH];
 bool g_bChatTriggers;
 int g_iVoteImmunity;
-Handle g_hAdminMenu;
+Handle g_hAdminMenu = INVALID_HANDLE;
 
 /*********************
 **      KICK        **
